@@ -16,7 +16,7 @@
         
 
 name: SSH Server
-# on: push
+on: push
 jobs:
   build:
     runs-on: ubuntu-latest
